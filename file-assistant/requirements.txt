@@ -1,0 +1,5 @@
+PyQt6 # GUI
+py2app # 打包成app的工具
+shutil
+time
+
