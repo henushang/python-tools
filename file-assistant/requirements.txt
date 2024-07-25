@@ -1,5 +1,4 @@
-PyQt6 # GUI
-py2app # 打包成app的工具
-shutil
-time
+PyQt6==6.7.1 # GUI
+py2app==0.28.8 # 打包成app的工具
+pytest-shutil==1.7.0
 

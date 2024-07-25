@@ -19,7 +19,7 @@ def code_to_message(code):
 class PhotoOrganizer(QWidget):
     def __init__(self):
         super().__init__()
-        self.setWindowTitle("File Organizer")
+        self.setWindowTitle("文件助手")
         layout = QVBoxLayout()
         self.setLayout(layout)
 
