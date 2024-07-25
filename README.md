@@ -7,7 +7,7 @@
 - 帮助您快速把一个目录里面的大量文件可以按照文件生成日期或者月份进行聚合后移动到新的目录里面（深浅色会随着系统变化）
 - <img width="218" alt="image" src="https://github.com/user-attachments/assets/822fb755-2515-4306-9564-c9c829058076">
 
-### 直接下载
+### 百度网盘直接下载
 - 链接: https://pan.baidu.com/s/1BA7QpIPQ7a59AP4dYRZtTA?pwd=1tys 提取码: 1tys 复制这段内容后打开百度网盘手机App，操作更方便哦
 
 ### 开发者助手
