@@ -1,17 +1,17 @@
 # 分享有意思的小工具
 
-## 文件助手
+## 01 文件助手
 
-### 主要功能
+### 1.1 主要功能
 - code： [file-assistant](./file-assistant)
 - 帮助您快速把一个目录里面的大量文件可以按照文件生成日期或者月份进行聚合后移动到新的目录里面（深浅色会随着系统变化）
 - <img width="218" alt="image" src="https://github.com/user-attachments/assets/822fb755-2515-4306-9564-c9c829058076">
 
-### 百度网盘直接下载
+### 1.2 百度网盘直接下载
 - 链接: https://pan.baidu.com/s/1BA7QpIPQ7a59AP4dYRZtTA?pwd=1tys
 - 提取码: 1tys 
 
-### 开发者助手
+### 1.3 开发者助手
 - 首先假设你是有python开发经验的，如果没有先学习一下基础语法
 - 环境准备，安装依赖：pip install -r requirements.txt
 - 代码介绍
