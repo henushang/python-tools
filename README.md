@@ -8,7 +8,8 @@
 - <img width="218" alt="image" src="https://github.com/user-attachments/assets/822fb755-2515-4306-9564-c9c829058076">
 
 ### 百度网盘直接下载
-- 链接: https://pan.baidu.com/s/1BA7QpIPQ7a59AP4dYRZtTA?pwd=1tys 提取码: 1tys 复制这段内容后打开百度网盘手机App，操作更方便哦
+- 链接: https://pan.baidu.com/s/1BA7QpIPQ7a59AP4dYRZtTA?pwd=1tys
+- 提取码: 1tys 
 
 ### 开发者助手
 - 首先假设你是有python开发经验的，如果没有先学习一下基础语法
