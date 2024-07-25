@@ -3,7 +3,7 @@
 ## 文件助手
 
 ### 主要功能
-- code： file-assistant
+- code： [file-assistant](./file-assistant)
 - 帮助您快速把一个目录里面的大量文件可以按照文件生成日期或者月份进行聚合后移动到新的目录里面（深浅色会随着系统变化）
 - <img width="218" alt="image" src="https://github.com/user-attachments/assets/822fb755-2515-4306-9564-c9c829058076">
 
